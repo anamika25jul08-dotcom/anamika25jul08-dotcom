@@ -1,16 +1,38 @@
-## Hi there 👋
+👋 Hi, I'm Anamika Rana!
 
-<!--
-**anamika25jul08-dotcom/anamika25jul08-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 AI & ML | Computer Science Engineering Student | Aspiring Developer
 
-Here are some ideas to get you started:
+🎓 I'm a Computer Science Engineering student specializing in Artificial Intelligence & Machine Learning (AI/ML) at Lovely Professional University (LPU).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning and exploring the world of programming and web development.
+
+🔭 Exploring Artificial Intelligence and Machine Learning.
+
+🐍 Learning Python for programming and problem-solving.
+
+🌐 Learning HTML for web development.
+
+☕ Learning Java and object-oriented programming.
+
+💡 Interested in technology, innovation, and building creative projects.
+
+🎯 Goal: To become a skilled software developer and AI/ML engineer.
+
+🛠️ Languages & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,html,java" />
+</p>
+
+📚 Currently Learning
+
+Python Programming
+
+HTML & Web Development
+
+Java Programming
+
+Data Structures & Algorithms
+
+Artificial Intelligence & Machine Learning
+
